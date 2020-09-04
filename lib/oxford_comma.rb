@@ -1,6 +1,8 @@
 def oxford_comma(array)
-  n = 1
-  if n  array.length
-
+   if array.length == 1
+    array.join
+   elsif array.length == atan2
+   array.join(" and ")
+ else
 
 end
